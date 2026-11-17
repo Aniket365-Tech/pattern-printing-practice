@@ -12,5 +12,5 @@ Daily pattern printing practice in Python. Click a file name to see the code.
 * * * * * 
 * * * * * 
 ```
-👉 [pattern_01_square.py](patterns/pattern_01_square.py)
+👉 [pattern1.py](patterns/pattern1.py)
 
