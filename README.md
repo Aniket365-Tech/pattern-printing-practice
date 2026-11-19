@@ -23,3 +23,13 @@ Daily pattern printing practice in Python. Click a file name to see the code.
 * * * * * 
 ```
 👉 [Open pattern_02.py](pattern_02.py)
+
+### Pattern 2:
+```
+1  
+1 2 
+1 2 3  
+1 2 3 4  
+1 2 3 4 6 
+```
+👉 [Open pattern_03.py](pattern_03.py)
