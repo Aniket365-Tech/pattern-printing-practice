@@ -24,12 +24,22 @@ Daily pattern printing practice in Python. Click a file name to see the code.
 ```
 👉 [Open pattern_02.py](pattern_02.py)
 
-### Pattern 2:
+### Pattern 3:
 ```
 1  
 1 2 
 1 2 3  
 1 2 3 4  
-1 2 3 4 6 
+1 2 3 4 5 
 ```
 👉 [Open pattern_03.py](pattern_03.py)
+
+### Pattern 4:
+```
+1  
+2 2 
+3 3 3  
+4 4 4 4  
+5 5 5 5 5 
+```
+👉 [Open pattern_04.py](pattern_04.py)
