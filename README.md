@@ -53,3 +53,14 @@ Daily pattern printing practice in Python. Click a file name to see the code.
 *  
 ```
 👉 [Open pattern_05.py](pattern_05.py)
+
+### Pattern 6:
+```
+1 2 3 4 5
+1 2 3 4
+1 2 3 4
+1 2 3
+1 2
+1 
+```
+👉 [Open pattern_06.py](pattern_06.py)
