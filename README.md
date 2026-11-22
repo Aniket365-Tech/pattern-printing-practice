@@ -80,3 +80,18 @@ Daily pattern printing practice in Python. Click a file name to see the code.
     *
 ```
 👉 [Open pattern_08.py](pattern_08.py)
+
+### Pattern 9:
+``` 
+    * 
+   ***
+  *****
+ *******
+*********
+*********
+ *******
+  *****
+   ***
+    *
+```
+👉 [Open pattern_09.py](pattern_09.py)
