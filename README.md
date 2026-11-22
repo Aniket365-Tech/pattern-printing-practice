@@ -65,10 +65,18 @@ Daily pattern printing practice in Python. Click a file name to see the code.
 ```
 👉 [Open pattern_06.py](pattern_06.py)
 
-### Pattern 1:
+### Pattern 7:
 ```
     *     
   * * *  
 * * * * * 
 ```
 👉 [Open patterna_07.py](pattern_07.py)
+
+### Pattern 8:
+``` 
+* * * * * 
+  * * *
+    *
+```
+👉 [Open pattern_08.py](pattern_08.py)
